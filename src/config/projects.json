@@ -1,0 +1,24 @@
+{
+    "projects": [
+        {
+            "title": "Farm Land 1",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore explicabo veritatis laudantium optio qui quaerat nesciunt corrupti culpa beatae repudiandae? Nostrum earum ex officia nam sapiente voluptate nobis animi id perspiciatis incidunt omnis odio eaque optio facere molestiae vel, quas temporibus? Dicta animi incidunt nisi vero, praesentium provident deserunt dolorem.",
+            "image": "img/project1.svg"
+        },
+        {
+            "title": "Farm Land 2",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore explicabo veritatis laudantium optio qui quaerat nesciunt corrupti culpa beatae repudiandae? Nostrum earum ex officia nam sapiente voluptate nobis animi id perspiciatis incidunt omnis odio eaque optio facere molestiae vel, quas temporibus? Dicta animi incidunt nisi vero, praesentium provident deserunt dolorem.",
+            "image": "img/project2.svg"
+        },
+        {
+            "title": "Farm Land 3",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore explicabo veritatis laudantium optio qui quaerat nesciunt corrupti culpa beatae repudiandae? Nostrum earum ex officia nam sapiente voluptate nobis animi id perspiciatis incidunt omnis odio eaque optio facere molestiae vel, quas temporibus? Dicta animi incidunt nisi vero, praesentium provident deserunt dolorem.",
+            "image": "img/project3.svg"
+        },
+        {
+            "title": "Farm Land 4",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore explicabo veritatis laudantium optio qui quaerat nesciunt corrupti culpa beatae repudiandae? Nostrum earum ex officia nam sapiente voluptate nobis animi id perspiciatis incidunt omnis odio eaque optio facere molestiae vel, quas temporibus? Dicta animi incidunt nisi vero, praesentium provident deserunt dolorem.",
+            "image": "img/project4.svg"
+        }
+    ]
+}
